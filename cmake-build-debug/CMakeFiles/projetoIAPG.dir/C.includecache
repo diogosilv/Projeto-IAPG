@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/projetoIAPG/IAPG.c
+IAPG.h
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/projetoIAPG/IAPG.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/projetoIAPG/IAPG.h
+
